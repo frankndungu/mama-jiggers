@@ -224,7 +224,7 @@ For website issues, bugs, or feature requests:
 
 ## License & Copyright
 
-© 2024 Mama Jiggers Foundation. All rights reserved.
+© 2025 Mama Jiggers Foundation. All rights reserved.
 
 This website is built with love for the community and dedicated to the mission of building healthier, more equitable communities through health, sanitation, and human rights advocacy.
 
