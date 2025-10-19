@@ -115,7 +115,7 @@ export default function Home() {
                 Building Healthier Communities
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed text-pretty">
-                From removing jiggers to fighting for human rights, we're
+                From removing jiggers to fighting for human rights, we&apos;re
                 dedicated to creating lasting change in health, sanitation, and
                 social justice for all.
               </p>
@@ -191,8 +191,9 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground leading-relaxed">
-                  Fighting for children's and women's rights, supporting widows
-                  and widowers, and ensuring dignity for all community members.
+                  Fighting for children&apos;s and women&apos;s rights,
+                  supporting widows and widowers, and ensuring dignity for all
+                  community members.
                 </p>
               </CardContent>
             </Card>
@@ -424,8 +425,8 @@ export default function Home() {
               Get in Touch
             </h2>
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed text-pretty">
-              Ready to support our mission or need our help? We'd love to hear
-              from you.
+              Ready to support our mission or need our help? We&apos;d love to
+              hear from you.
             </p>
           </div>
 
@@ -454,7 +455,7 @@ export default function Home() {
                     info@mamajiggers.org
                   </div>
                   <div className="text-sm text-muted-foreground/80">
-                    We'll respond within 24 hours
+                    We&apos;ll respond within 24 hours
                   </div>
                 </div>
                 <div>
